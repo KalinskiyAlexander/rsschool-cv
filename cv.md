@@ -31,6 +31,7 @@ During my career I began to work with back-end tasks as well and in the future I
 
 ### Code example:
 *Common function  which returns the value from localstorage:*
+
 ```
 export const getFromLocalStorage = (name: string) => {
   const info = typeof window !== 'undefined' ? localStorage.getItem(name) : null;
