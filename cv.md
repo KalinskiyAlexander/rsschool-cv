@@ -49,7 +49,7 @@ export const getFromLocalStorage = (name: string) => {
 ### English:
 * Upper-intermediate level
 * New-Tone English school (2013-2014)  
-  I had experience to communicate with native speakers, with customers at work as well.
+I have had experience to communicate with native speakers, with customers at work as well.
 
 
 
